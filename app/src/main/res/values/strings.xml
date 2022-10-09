@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GithubUserApp3</string>
+    <string name="app_nameDetail">Github User Detail</string>
+    <string name="app_favUser">Github Favorite User</string>
+    <string name="btnback">Back Button</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan Username</string>
+    <string name="detail_user">Detail User</string>
+    <string name="profile_pic">Profile Pictures</string>
+    <string name="tab">Tab Layout</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="repo">%d Repository</string>
+    <string name="splash_image">Splash Image</string>
+    <string name="btn_share">Share</string>
+    <string name="darkmode">Dark Mode</string>
+    <string name="save_fav">Make Favorite ?</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Settings</string>
+    <string name="viewpager">View Pager</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="txt_logo">Github User App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
